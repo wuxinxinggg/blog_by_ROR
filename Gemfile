@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.5'
+gem 'execjs'
+
+gem 'therubyracer'
+
+gem 'rb-readline'
+
+gem 'rails', '3.2.6'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
